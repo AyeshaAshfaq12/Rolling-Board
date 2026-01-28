@@ -1,4 +1,5 @@
-# RollingBoard - Project Management App Website
+# RollingBoard 
+Project Management App Website
 
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-brightgreen)](https://rebrand.ly/RollingBoard)
 [![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
