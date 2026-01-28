@@ -9,7 +9,7 @@ Project Management App Website
 ## Overview
 **RollingBoard** is a sleek and fully responsive website for a **Project Management App**, crafted to deliver a seamless user experience across all devices. Designed with a clean, professional layout, it supports essential features to help users navigate and manage their tasks effectively.
 
-🌐 [Demo Link](https://rebrand.ly/RollingBoard)
+🌐 [Demo Link](https://rolling-board.vercel.app/)
 
 ---
 
